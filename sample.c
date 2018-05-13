@@ -1,7 +1,8 @@
 #include<stdio.h>
 
-int main(void){
-	printf("Hello World/n");
+// There's no nedd of passing void as argument to main() function
+int main(){
+	printf("Hello World\n"); // It's '\n' not '/n' buddy
 	return 0;
 }
 
